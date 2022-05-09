@@ -1,0 +1,70 @@
+{
+  "movies": [
+    {
+      "id": "6",
+      "name": "John Wick",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/1/13/John_wick_ver3.jpg",
+      "type": "1",
+      "gender": "11"
+    },
+    {
+      "id": "7",
+      "name": "Wedding Date",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
+      "image": "https://br.web.img2.acsta.net/medias/nmedia/18/87/11/46/19872156.jpg",
+      "type": "1",
+      "gender": "13"
+    },
+    {
+      "id": "8",
+      "name": "Avatar",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/b/b0/Avatar-Teaser-Poster.jpg",
+      "type": "1",
+      "gender": "12"
+    }
+  ],
+  "shows": [
+    {
+      "id": "1",
+      "name": "Moonknight",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "image": "https://uploads.ororo-mirror.tv/uploads/show/poster/2756/thumb_zQSABH2Dza4mXLow2f0V2IQvJOL.jpg",
+      "type": "2",
+      "gender": "11"
+    },
+    {
+      "id": "2",
+      "name": "Halo",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
+      "image": "https://uploads.ororo-mirror.tv/uploads/show/poster/2752/thumb_eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg",
+      "type": "2",
+      "gender": "12"
+    },
+    {
+      "id": "3",
+      "name": "The Young Sheldon",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
+      "image": "https://uploads.ororo-mirror.tv/uploads/show/poster/1215/thumb_kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
+      "type": "2",
+      "gender": "13"
+    },
+    {
+      "id": "4",
+      "name": "Peaky Blinders",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
+      "image": "https://uploads.ororo-mirror.tv/uploads/show/poster/300/thumb_AiqsuFFL2u4hsrMFYUbQlX9BqhH.jpg",
+      "type": "2",
+      "gender": "14"
+    },
+    {
+      "id": "5",
+      "name": "House",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
+      "image": "https://uploads.ororo-mirror.tv/uploads/show/poster/10/thumb_lxSzRZ49NXwsiyHuvMsd19QxduC.jpg",
+      "type": "2",
+      "gender": "14"
+    }
+  ]
+}
